@@ -1,6 +1,6 @@
 # DevConector-MERN-Project
 
-This project is a fullstack-project.
+This project is a fullstack-project. For learning purpose / training.
 
 ## Backend - API
 
