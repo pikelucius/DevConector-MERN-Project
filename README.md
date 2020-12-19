@@ -6,7 +6,7 @@ This project is a fullstack-project.
 
 API is created with nodejs - express - mongoDB\
 bcrypt - for crypto\
-jwt - for user logged in (valid)\
+jwt - for user logged in (valid)
 
 
 ## Frontend
